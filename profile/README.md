@@ -11,15 +11,15 @@ Tüm ekip üyeleri **Tekirdağ / Çorlu - Ahi Evran Mesleki ve Teknik Anadolu Li
 
 ### 🎓 AI-EdTech  
 Kişiselleştirilmiş öğrenme deneyimi sunan, yapay zeka destekli modern bir eğitim platformu.  
-🔗 GitHub: [AI-EdTech](https://github.com/Altek-Teknolojileri/AI-EdTech)  
-🔗 Web: [ai-edtech](https://altekteknolojileri.com/ai-edtech/)
+🔗 GitHub: [Altek-Teknolojileri/AI-EdTech](https://github.com/Altek-Teknolojileri/AI-EdTech)  
+🔗 Web: [altekteknolojileri.com/ai-edtech](https://altekteknolojileri.com/ai-edtech/)
 
 ### 📝 Altek Yoklama  
 ⏳ **Geliştirme Aşamasında**  
-TÜBİTAK destekli bu proje, yoklama sistemlerini daha verimli ve kullanıcı dostu hale getirmeyi hedeflemektedir.  
-🔗 GitHub: [Altek Yoklama](https://github.com/Altek-Teknolojileri/Altek-Yoklama)  
-🔗 Web: [altek-yoklama](https://altekteknolojileri.com/altek-yoklama/)
+Bu proje, TÜBİTAK kapsamında geliştirilen, yoklama sistemlerini daha verimli ve kullanıcı dostu hâle getirmeyi amaçlayan bir çalışmadır.  
+🔗 GitHub: [Altek-Teknolojileri/Altek-Yoklama](https://github.com/Altek-Teknolojileri/Altek-Yoklama)  
+🔗 Web: [altekteknolojileri.com/altek-yoklama](https://altekteknolojileri.com/altek-yoklama/)
 
 ## 📞 İletişim  
-📧 **E-posta:** [altek.teknolojileri@gmail.com](mailto:altek.teknolojileri@gmail.com)  
+📧 **E-posta:** [iletisim@altekteknolojileri.com](mailto:iletisim@altekteknolojileri.com)  
 🌐 **Web:** [altekteknolojileri.com](https://altekteknolojileri.com/)
