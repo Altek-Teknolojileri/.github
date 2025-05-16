@@ -18,7 +18,7 @@ Kişiselleştirilmiş öğrenme deneyimi sunan, yapay zeka destekli modern bir e
 ⏳ **Geliştirme Aşamasında**  
 Bu proje, TÜBİTAK kapsamında geliştirilen, yoklama sistemlerini daha verimli ve kullanıcı dostu hâle getirmeyi amaçlayan bir çalışmadır.  
 🔗 GitHub: [Altek-Teknolojileri/Altek-Yoklama](https://github.com/Altek-Teknolojileri/Altek-Yoklama)  
-🔗 Web: [altekteknolojileri.com/altek-yoklama](https://altekteknolojileri.com/altek-yoklama/)
+🔗 Web: [yoklama.altekteknolojileri.com](https://yoklama.altekteknolojileri.com/)
 
 ## 📞 İletişim  
 📧 **E-posta:** [iletisim@altekteknolojileri.com](mailto:iletisim@altekteknolojileri.com)  
